@@ -9,6 +9,13 @@
 - [kam6ri](https://github.com/kam6ri) - PM, Develop
 - [nagauta](https://github.com/nagauta) - Advisor
 
+### プロジェクト管理
+
+- [コード](https://github.com/skinfit/skinfit)
+- [タスク](https://github.com/orgs/skinfit/projects/1)
+
+---
+
 ### 背景
 ストレスが多い現代社会の中でユーザーが抱える肌トラブルは多く、美容需要は日々拡大しています。
 しかしながら、スキンケア製品の多様性とSNSによる情報過多や不健全なマーケティングは深刻化し、ユーザーは正確な情報や適切な製品を見つけるのが難しくなっています。
