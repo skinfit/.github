@@ -6,7 +6,7 @@
 
 ### メンバー
 
-- [kam6ri](https://github.com/kam6ri) - PM, Developer
+- [kam6ri](https://github.com/kam6ri) - PdM, Developer
 - [nagauta](https://github.com/nagauta) - Advisor, Developer
 
 ### プロジェクト管理
