@@ -8,6 +8,7 @@
 
 - [kam6ri](https://github.com/kam6ri) - PdM, Developer
 - [nagauta](https://github.com/nagauta) - Advisor, Developer
+- [Miyamon](https://github.com/Miya-Yu) - Developer
 
 ### プロジェクト管理
 
