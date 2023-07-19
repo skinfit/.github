@@ -9,8 +9,10 @@
 - [kam6ri](https://github.com/kam6ri) - PdM, Developer
 - [nagauta](https://github.com/nagauta) - Advisor, Developer
 - [Miyamon](https://github.com/Miya-Yu) - Developer
+- [nagiunagi](https://github.com/nagiunagi) - 
 
 ### プロジェクト管理
 
 - [コード](https://github.com/skinfit/skinfit)
 - [タスク](https://github.com/orgs/skinfit/projects/1)
+- [KPI](https://skinfit.github.io/)
