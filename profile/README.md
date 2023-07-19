@@ -15,4 +15,3 @@
 
 - [コード](https://github.com/skinfit/skinfit)
 - [タスク](https://github.com/orgs/skinfit/projects/1)
-- [KPI](https://skinfit.github.io/)
